@@ -6,7 +6,7 @@ Before running the program, compile the necessary files using the command: javac
 
 Once compilation is complete, run the program by using the command: java CoinSimViewer.java
 
-The startercode folder includes all of the java files that I used as foundation to create the coin toss simulation viewer.
+The foundation_code folder includes all of the java files that I used as foundation to create the coin toss simulation viewer.
 
 
 **Notes**:
